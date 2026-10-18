@@ -44,7 +44,7 @@ end
 function M.load()
 	M.setup()
 	vim.cmd.colorscheme("tokyonight-night")
-	vim.g.colors_name = "mytheme"
+	vim.g.colors_name = "VisualStudio"
 end
 
 return M
